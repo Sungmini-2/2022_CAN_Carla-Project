@@ -1,0 +1,41 @@
+Timestamp: 1647134787.951124        ID: 0636    S Tx                DL:  8    46 20 d1 10 97 77 13 18     Channel: vcan0 T
+Timestamp: 1647134788.151551        ID: 055e    S Tx                DL:  8    69 77 91 0b f1 55 20 54     Channel: vcan0 T
+Timestamp: 1647134788.351994        ID: 03ad    S Tx                DL:  8    e0 79 c6 41 fd d6 93 3b     Channel: vcan0 T
+Timestamp: 1647134788.552442        ID: 0721    S Tx                DL:  8    a7 20 f0 44 0b 6d 44 7e     Channel: vcan0 T
+Timestamp: 1647134788.752681        ID: 0460    S Tx                DL:  0                                Channel: vcan0 T
+Timestamp: 1647134788.952920        ID: 0591    S Tx                DL:  7    ae b0 46 56 bb 3f f8        Channel: vcan0 T
+Timestamp: 1647134789.153400        ID: 04bb    S Tx                DL:  8    fd ac 78 50 ad 9e 94 65     Channel: vcan0 T
+Timestamp: 1647134789.353754        ID: 06f4    S Tx                DL:  8    71 07 50 76 2a 5d e7 7d     Channel: vcan0 T
+Timestamp: 1647134789.554181        ID: 0037    S Tx                DL:  8    c1 d4 fa 15 95 c5 28 04     Channel: vcan0 T
+Timestamp: 1647134789.754594        ID: 0362    S Tx                DL:  8    87 1b 49 58 0f b7 13 0a     Channel: vcan0 T
+Timestamp:        0.000000    ID: 00000362    X Rx                DL:  8    39 53 05 26 32 3d 1c 14 R
+Timestamp: 1647134789.954763        ID: 0047    S Tx                DL:  7    0c 8e a7 45 69 f7 5e        Channel: vcan0 T
+Timestamp: 1647134790.155172        ID: 05b5    S Tx                DL:  3    74 64 a3                    Channel: vcan0 T
+Timestamp: 1647134790.355602        ID: 07d4    S Tx                DL:  8    6a b2 12 05 65 5d e6 6c     Channel: vcan0 T
+Timestamp: 1647134790.556044        ID: 0550    S Tx                DL:  8    20 9d de 41 0c d2 b0 22     Channel: vcan0 T
+Timestamp: 1647134790.756487        ID: 0157    S Tx                DL:  8    b9 70 45 08 4b 78 15 79     Channel: vcan0 T
+Timestamp: 1647134790.957070        ID: 0537    S Tx                DL:  8    75 d5 fc 76 6e 95 96 79     Channel: vcan0 T
+Timestamp: 1647134791.157517        ID: 07e2    S Tx                DL:  7    04 5b bf 7d 44 fb 40        Channel: vcan0 T
+Timestamp: 1647134791.357962        ID: 0662    S Tx                DL:  8    54 b2 54 0f a9 06 7a 22     Channel: vcan0 T
+Timestamp: 1647134791.558417        ID: 03f2    S Tx                DL:  0                                Channel: vcan0 T
+Timestamp: 1647134791.758654        ID: 0714    S Tx                DL:  6    bc 33 a7 61 e8 fe           Channel: vcan0 T
+Timestamp:        0.000000    ID: 00000714    X Rx                DL:  8    31 5d 41 4c 3b 25 0a 1d R
+Timestamp: 1647134791.959072        ID: 0020    S Tx                DL:  7    4d 5c 95 52 70 65 ad        Channel: vcan0 T
+Timestamp: 1647134792.159571        ID: 0140    S Tx                DL:  8    7c 37 5e 51 97 b2 b7 0e     Channel: vcan0 T
+Timestamp: 1647134792.359989        ID: 038b    S Tx                DL:  5    e3 2a cd 07 c2              Channel: vcan0 T
+Timestamp: 1647134792.560410        ID: 0060    S Tx                DL:  8    31 ae b3 02 42 c0 ef 5d     Channel: vcan0 T
+Timestamp: 1647134792.760945        ID: 028f    S Tx                DL:  5    87 bb 30 63 f1              Channel: vcan0 T
+Timestamp: 1647134792.961400        ID: 07c0    S Tx                DL:  8    9b a7 bf 5c b2 8b 93 46     Channel: vcan0 T
+Timestamp: 1647134793.161830        ID: 063b    S Tx                DL:  8    5a 9d a2 51 4f 9d 15 27     Channel: vcan0 T
+Timestamp: 1647134793.362032        ID: 0034    S Tx                DL:  6    37 9c c4 0c 54 a8           Channel: vcan0 T
+Timestamp: 1647134793.562456        ID: 073d    S Tx                DL:  4    c4 0d 55 15                 Channel: vcan0 T
+Timestamp: 1647134793.762872        ID: 01f2    S Tx                DL:  1    15                          Channel: vcan0 T
+Timestamp:        0.000000    ID: 000001f2    X Rx                DL:  8    63 1d 15 2c 37 4e 2d 2f R
+Timestamp: 1647134793.963227        ID: 0576    S Tx                DL:  8    40 4e b6 23 d6 0d 90 18     Channel: vcan0 T
+Timestamp: 1647134794.163614        ID: 0650    S Tx                DL:  1    19                          Channel: vcan0 T
+Timestamp: 1647134794.363988        ID: 05a6    S Tx                DL:  0                                Channel: vcan0 T
+Timestamp: 1647134794.564366        ID: 077b    S Tx                DL:  8    18 11 ec 43 b6 a5 b7 13     Channel: vcan0 T
+Timestamp: 1647134794.764579        ID: 071a    S Tx                DL:  2    06 43                       Channel: vcan0 T
+Timestamp: 1647134794.964773        ID: 0789    S Tx                DL:  8    a2 27 82 43 c6 36 dc 62     Channel: vcan0 T
+Timestamp: 1647134795.164946        ID: 07c2    S Tx                DL:  6    44 37 f3 3e b4 c9           Channel: vcan0 T
+Timestamp: 1647134795.365448        ID: 02a7    S Tx                DL:  8    31 ff 52 35 1e 68 e1 7f     Channel: vcan0 T

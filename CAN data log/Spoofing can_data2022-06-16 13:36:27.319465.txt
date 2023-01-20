@@ -1,0 +1,2584 @@
+100
+Timestamp: 1655354187.319487        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+200
+Timestamp: 1655354187.319955        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+300
+Timestamp: 1655354187.335253        ID: 01d6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+400
+Timestamp: 1655354187.335785        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+500
+Timestamp: 1655354187.337005        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+600
+Timestamp: 1655354187.337492        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+700
+Timestamp: 1655354187.337970        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+800
+Timestamp: 1655354187.338413        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+900
+Timestamp: 1655354187.351905        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+1000
+Timestamp: 1655354187.352462        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+1100
+Timestamp: 1655354187.352918        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+1200
+Timestamp: 1655354187.353411        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+1300
+Timestamp: 1655354187.353831        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+1400
+Timestamp: 1655354187.354413        ID: 01cd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+1500
+Timestamp: 1655354187.368041        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+1600
+Timestamp: 1655354187.368521        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+1700
+Timestamp: 1655354187.368994        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+1800
+Timestamp: 1655354187.369477        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+1900
+Timestamp: 1655354187.369987        ID: 0205    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+2000
+Timestamp: 1655354187.370418        ID: 01c4    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+2100
+Timestamp: 1655354187.385124        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+2200
+Timestamp: 1655354187.385651        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+2300
+Timestamp: 1655354187.386431        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+2400
+Timestamp: 1655354187.386941        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+2500
+Timestamp: 1655354187.387428        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+2600
+Timestamp: 1655354187.387847        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+2700
+Timestamp: 1655354187.401915        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+2800
+Timestamp: 1655354187.402158        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+2900
+Timestamp: 1655354187.402643        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+3000
+Timestamp: 1655354187.403350        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+3100
+Timestamp: 1655354187.403806        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+3200
+Timestamp: 1655354187.404274        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+3300
+Timestamp: 1655354187.421755        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+3400
+Timestamp: 1655354187.422838        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+3500
+Timestamp: 1655354187.424626        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+3600
+Timestamp: 1655354187.425160        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+3700
+Timestamp: 1655354187.425646        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+3800
+Timestamp: 1655354187.426121        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+3900
+Timestamp: 1655354187.435401        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+4000
+Timestamp: 1655354187.435824        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+4100
+Timestamp: 1655354187.436299        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+4200
+Timestamp: 1655354187.436778        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+4300
+Timestamp: 1655354187.437265        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+4400
+Timestamp: 1655354187.437725        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+4500
+Timestamp: 1655354187.451339        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+4600
+Timestamp: 1655354187.451872        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+4700
+Timestamp: 1655354187.452405        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+4800
+Timestamp: 1655354187.453036        ID: 01e8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+4900
+Timestamp: 1655354187.453524        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+5000
+Timestamp: 1655354187.453999        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+5100
+Timestamp: 1655354187.468022        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+5200
+Timestamp: 1655354187.468501        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+5300
+Timestamp: 1655354187.468942        ID: 01a5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+5400
+Timestamp: 1655354187.469427        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+5500
+Timestamp: 1655354187.469921        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+5600
+Timestamp: 1655354187.470427        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+5700
+Timestamp: 1655354187.485217        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+5800
+Timestamp: 1655354187.485687        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+5900
+Timestamp: 1655354187.486202        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+6000
+Timestamp: 1655354187.486681        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+6100
+Timestamp: 1655354187.487161        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+6200
+Timestamp: 1655354187.487640        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+6300
+Timestamp: 1655354187.502079        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+6400
+Timestamp: 1655354187.502707        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+6500
+Timestamp: 1655354187.504471        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+6600
+Timestamp: 1655354187.504908        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+6700
+Timestamp: 1655354187.505470        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+6800
+Timestamp: 1655354187.505888        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+6900
+Timestamp: 1655354187.518727        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+7000
+Timestamp: 1655354187.519229        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+7100
+Timestamp: 1655354187.520020        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+7200
+Timestamp: 1655354187.520527        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+7300
+Timestamp: 1655354187.521012        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+7400
+Timestamp: 1655354187.521477        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+7500
+Timestamp: 1655354187.534299        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+7600
+Timestamp: 1655354187.534817        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+7700
+Timestamp: 1655354187.535292        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+7800
+Timestamp: 1655354187.535778        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+7900
+Timestamp: 1655354187.536256        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+8000
+Timestamp: 1655354187.536723        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+8100
+Timestamp: 1655354187.552504        ID: 01e1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+8200
+Timestamp: 1655354187.552762        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+8300
+Timestamp: 1655354187.553242        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+8400
+Timestamp: 1655354187.553715        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+8500
+Timestamp: 1655354187.554507        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+8600
+Timestamp: 1655354187.554979        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+8700
+Timestamp: 1655354187.568475        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+8800
+Timestamp: 1655354187.569002        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+8900
+Timestamp: 1655354187.569514        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+9000
+Timestamp: 1655354187.569983        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+9100
+Timestamp: 1655354187.570470        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+9200
+Timestamp: 1655354187.570877        ID: 01cd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+9300
+Timestamp: 1655354187.586311        ID: 01d6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+9400
+Timestamp: 1655354187.587019        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+9500
+Timestamp: 1655354187.587529        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+9600
+Timestamp: 1655354187.587981        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+9700
+Timestamp: 1655354187.589183        ID: 020c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+9800
+Timestamp: 1655354187.589667        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+9900
+Timestamp: 1655354187.601416        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+10000
+Timestamp: 1655354187.601892        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+10100
+Timestamp: 1655354187.602381        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+10200
+Timestamp: 1655354187.602845        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+10300
+Timestamp: 1655354187.603335        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+10400
+Timestamp: 1655354187.603803        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+10500
+Timestamp: 1655354187.617991        ID: 01d6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+10600
+Timestamp: 1655354187.618810        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+10700
+Timestamp: 1655354187.619295        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+10800
+Timestamp: 1655354187.619790        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+10900
+Timestamp: 1655354187.620238        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+11000
+Timestamp: 1655354187.620701        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+11100
+Timestamp: 1655354187.634305        ID: 01d6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+11200
+Timestamp: 1655354187.636070        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+11300
+Timestamp: 1655354187.636539        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+11400
+Timestamp: 1655354187.637187        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+11500
+Timestamp: 1655354187.637717        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+11600
+Timestamp: 1655354187.638180        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+11700
+Timestamp: 1655354187.650987        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+11800
+Timestamp: 1655354187.651783        ID: 0159    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+11900
+Timestamp: 1655354187.652250        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+12000
+Timestamp: 1655354187.652711        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+12100
+Timestamp: 1655354187.653188        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+12200
+Timestamp: 1655354187.653650        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+12300
+Timestamp: 1655354187.668168        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+12400
+Timestamp: 1655354187.668737        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+12500
+Timestamp: 1655354187.669211        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+12600
+Timestamp: 1655354187.669701        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+12700
+Timestamp: 1655354187.670251        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+12800
+Timestamp: 1655354187.670743        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+12900
+Timestamp: 1655354187.686546        ID: 01d6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+13000
+Timestamp: 1655354187.687006        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+13100
+Timestamp: 1655354187.687554        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+13200
+Timestamp: 1655354187.688077        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+13300
+Timestamp: 1655354187.688586        ID: 020b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+13400
+Timestamp: 1655354187.689047        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+13500
+Timestamp: 1655354187.701479        ID: 01e1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+13600
+Timestamp: 1655354187.701967        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+13700
+Timestamp: 1655354187.702443        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+13800
+Timestamp: 1655354187.702932        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+13900
+Timestamp: 1655354187.703394        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+14000
+Timestamp: 1655354187.703883        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+14100
+Timestamp: 1655354187.717636        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+14200
+Timestamp: 1655354187.718122        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+14300
+Timestamp: 1655354187.718637        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+14400
+Timestamp: 1655354187.719094        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+14500
+Timestamp: 1655354187.719592        ID: 020c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+14600
+Timestamp: 1655354187.720064        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+14700
+Timestamp: 1655354187.734943        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+14800
+Timestamp: 1655354187.735568        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+14900
+Timestamp: 1655354187.735999        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+15000
+Timestamp: 1655354187.736963        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+15100
+Timestamp: 1655354187.737461        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+15200
+Timestamp: 1655354187.737927        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+15300
+Timestamp: 1655354187.751106        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+15400
+Timestamp: 1655354187.751563        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+15500
+Timestamp: 1655354187.752053        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+15600
+Timestamp: 1655354187.752587        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+15700
+Timestamp: 1655354187.753078        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+15800
+Timestamp: 1655354187.753549        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+15900
+Timestamp: 1655354187.767722        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+16000
+Timestamp: 1655354187.768210        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+16100
+Timestamp: 1655354187.768711        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+16200
+Timestamp: 1655354187.769186        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+16300
+Timestamp: 1655354187.769684        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+16400
+Timestamp: 1655354187.770131        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+16500
+Timestamp: 1655354187.784416        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+16600
+Timestamp: 1655354187.785217        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+16700
+Timestamp: 1655354187.785693        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+16800
+Timestamp: 1655354187.786741        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+16900
+Timestamp: 1655354187.787256        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+17000
+Timestamp: 1655354187.787885        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+17100
+Timestamp: 1655354187.802070        ID: 01d6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+17200
+Timestamp: 1655354187.802501        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+17300
+Timestamp: 1655354187.803013        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+17400
+Timestamp: 1655354187.803479        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+17500
+Timestamp: 1655354187.803928        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+17600
+Timestamp: 1655354187.804392        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+17700
+Timestamp: 1655354187.817759        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+17800
+Timestamp: 1655354187.818253        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+17900
+Timestamp: 1655354187.818743        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+18000
+Timestamp: 1655354187.819234        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+18100
+Timestamp: 1655354187.819702        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+18200
+Timestamp: 1655354187.820170        ID: 01cd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+18300
+Timestamp: 1655354187.835710        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+18400
+Timestamp: 1655354187.836793        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+18500
+Timestamp: 1655354187.837372        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+18600
+Timestamp: 1655354187.837853        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+18700
+Timestamp: 1655354187.838323        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+18800
+Timestamp: 1655354187.838809        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+18900
+Timestamp: 1655354187.851657        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+19000
+Timestamp: 1655354187.852833        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+19100
+Timestamp: 1655354187.853909        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+19200
+Timestamp: 1655354187.854399        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+19300
+Timestamp: 1655354187.854882        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+19400
+Timestamp: 1655354187.855330        ID: 01cd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+19500
+Timestamp: 1655354187.867492        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+19600
+Timestamp: 1655354187.867972        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+19700
+Timestamp: 1655354187.868439        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+19800
+Timestamp: 1655354187.868951        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+19900
+Timestamp: 1655354187.869419        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+20000
+Timestamp: 1655354187.869897        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+20100
+Timestamp: 1655354187.885399        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+20200
+Timestamp: 1655354187.886026        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+20300
+Timestamp: 1655354187.887818        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+20400
+Timestamp: 1655354187.888317        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+20500
+Timestamp: 1655354187.888793        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+20600
+Timestamp: 1655354187.889264        ID: 01ce    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+20700
+Timestamp: 1655354187.901448        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+20800
+Timestamp: 1655354187.902102        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+20900
+Timestamp: 1655354187.902608        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+21000
+Timestamp: 1655354187.903078        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+21100
+Timestamp: 1655354187.903597        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+21200
+Timestamp: 1655354187.904040        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+21300
+Timestamp: 1655354187.917819        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+21400
+Timestamp: 1655354187.918277        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+21500
+Timestamp: 1655354187.918791        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+21600
+Timestamp: 1655354187.919259        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+21700
+Timestamp: 1655354187.919743        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+21800
+Timestamp: 1655354187.920210        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+21900
+Timestamp: 1655354187.935963        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+22000
+Timestamp: 1655354187.937652        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+22100
+Timestamp: 1655354187.938056        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+22200
+Timestamp: 1655354187.938560        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+22300
+Timestamp: 1655354187.938999        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+22400
+Timestamp: 1655354187.939476        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+22500
+Timestamp: 1655354187.950936        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+22600
+Timestamp: 1655354187.951432        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+22700
+Timestamp: 1655354187.951908        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+22800
+Timestamp: 1655354187.952399        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+22900
+Timestamp: 1655354187.952880        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+23000
+Timestamp: 1655354187.953352        ID: 01c6    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+23100
+Timestamp: 1655354187.967671        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+23200
+Timestamp: 1655354187.968089        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+23300
+Timestamp: 1655354187.968622        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+23400
+Timestamp: 1655354187.969049        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+23500
+Timestamp: 1655354187.969527        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+23600
+Timestamp: 1655354187.970002        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+23700
+Timestamp: 1655354187.985217        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+23800
+Timestamp: 1655354187.985934        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+23900
+Timestamp: 1655354187.986450        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+24000
+Timestamp: 1655354187.986893        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+24100
+Timestamp: 1655354187.987385        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+24200
+Timestamp: 1655354187.987839        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+24300
+Timestamp: 1655354188.001891        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+24400
+Timestamp: 1655354188.002445        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+24500
+Timestamp: 1655354188.002946        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+24600
+Timestamp: 1655354188.004089        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+24700
+Timestamp: 1655354188.004565        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+24800
+Timestamp: 1655354188.005040        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+24900
+Timestamp: 1655354188.017757        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+25000
+Timestamp: 1655354188.018190        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+25100
+Timestamp: 1655354188.018722        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+25200
+Timestamp: 1655354188.019163        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+25300
+Timestamp: 1655354188.019660        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+25400
+Timestamp: 1655354188.020123        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+25500
+Timestamp: 1655354188.034956        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+25600
+Timestamp: 1655354188.035908        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+25700
+Timestamp: 1655354188.036606        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+25800
+Timestamp: 1655354188.037190        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+25900
+Timestamp: 1655354188.037669        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+26000
+Timestamp: 1655354188.038122        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+26100
+Timestamp: 1655354188.051057        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+26200
+Timestamp: 1655354188.051557        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+26300
+Timestamp: 1655354188.052019        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+26400
+Timestamp: 1655354188.052484        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+26500
+Timestamp: 1655354188.052968        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+26600
+Timestamp: 1655354188.053434        ID: 01bc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+26700
+Timestamp: 1655354188.067962        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+26800
+Timestamp: 1655354188.069078        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+26900
+Timestamp: 1655354188.069541        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+27000
+Timestamp: 1655354188.070033        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+27100
+Timestamp: 1655354188.071292        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+27200
+Timestamp: 1655354188.071759        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+27300
+Timestamp: 1655354188.084896        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+27400
+Timestamp: 1655354188.085427        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+27500
+Timestamp: 1655354188.085906        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+27600
+Timestamp: 1655354188.086611        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+27700
+Timestamp: 1655354188.087090        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+27800
+Timestamp: 1655354188.087548        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+27900
+Timestamp: 1655354188.101052        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+28000
+Timestamp: 1655354188.101511        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+28100
+Timestamp: 1655354188.101988        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+28200
+Timestamp: 1655354188.102482        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+28300
+Timestamp: 1655354188.102968        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+28400
+Timestamp: 1655354188.103438        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+28500
+Timestamp: 1655354188.118810        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+28600
+Timestamp: 1655354188.119455        ID: 0159    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+28700
+Timestamp: 1655354188.120819        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+28800
+Timestamp: 1655354188.121312        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+28900
+Timestamp: 1655354188.121795        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+29000
+Timestamp: 1655354188.122252        ID: 01c6    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+29100
+Timestamp: 1655354188.134490        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+29200
+Timestamp: 1655354188.134955        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+29300
+Timestamp: 1655354188.135433        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+29400
+Timestamp: 1655354188.135921        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+29500
+Timestamp: 1655354188.136403        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+29600
+Timestamp: 1655354188.136868        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+29700
+Timestamp: 1655354188.151101        ID: 01d9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+29800
+Timestamp: 1655354188.151564        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+29900
+Timestamp: 1655354188.152030        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+30000
+Timestamp: 1655354188.152509        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+30100
+Timestamp: 1655354188.152996        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+30200
+Timestamp: 1655354188.153698        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+30300
+Timestamp: 1655354188.167717        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+30400
+Timestamp: 1655354188.168371        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+30500
+Timestamp: 1655354188.168854        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+30600
+Timestamp: 1655354188.169348        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+30700
+Timestamp: 1655354188.170321        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+30800
+Timestamp: 1655354188.170813        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+30900
+Timestamp: 1655354188.184449        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+31000
+Timestamp: 1655354188.184909        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+31100
+Timestamp: 1655354188.185395        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+31200
+Timestamp: 1655354188.185880        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+31300
+Timestamp: 1655354188.186425        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+31400
+Timestamp: 1655354188.186840        ID: 01be    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+31500
+Timestamp: 1655354188.202411        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+31600
+Timestamp: 1655354188.203246        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+31700
+Timestamp: 1655354188.203736        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+31800
+Timestamp: 1655354188.204229        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+31900
+Timestamp: 1655354188.204719        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+32000
+Timestamp: 1655354188.205155        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+32100
+Timestamp: 1655354188.217881        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+32200
+Timestamp: 1655354188.218426        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+32300
+Timestamp: 1655354188.218881        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+32400
+Timestamp: 1655354188.219340        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+32500
+Timestamp: 1655354188.219841        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+32600
+Timestamp: 1655354188.220368        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+32700
+Timestamp: 1655354188.234554        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+32800
+Timestamp: 1655354188.235013        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+32900
+Timestamp: 1655354188.235496        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+33000
+Timestamp: 1655354188.235950        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+33100
+Timestamp: 1655354188.236440        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+33200
+Timestamp: 1655354188.236869        ID: 01c6    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+33300
+Timestamp: 1655354188.251159        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+33400
+Timestamp: 1655354188.251634        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+33500
+Timestamp: 1655354188.252116        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+33600
+Timestamp: 1655354188.252587        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+33700
+Timestamp: 1655354188.253074        ID: 020c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+33800
+Timestamp: 1655354188.253533        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+33900
+Timestamp: 1655354188.268897        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+34000
+Timestamp: 1655354188.269438        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+34100
+Timestamp: 1655354188.270750        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+34200
+Timestamp: 1655354188.271529        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+34300
+Timestamp: 1655354188.272022        ID: 0205    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+34400
+Timestamp: 1655354188.272499        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+34500
+Timestamp: 1655354188.284769        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+34600
+Timestamp: 1655354188.285167        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+34700
+Timestamp: 1655354188.285641        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+34800
+Timestamp: 1655354188.286139        ID: 01e8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+34900
+Timestamp: 1655354188.286617        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+35000
+Timestamp: 1655354188.287089        ID: 01bc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+35100
+Timestamp: 1655354188.301359        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+35200
+Timestamp: 1655354188.301971        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+35300
+Timestamp: 1655354188.302335        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+35400
+Timestamp: 1655354188.302780        ID: 01e8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+35500
+Timestamp: 1655354188.303241        ID: 020c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+35600
+Timestamp: 1655354188.303767        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+35700
+Timestamp: 1655354188.317952        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+35800
+Timestamp: 1655354188.318434        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+35900
+Timestamp: 1655354188.318906        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+36000
+Timestamp: 1655354188.319403        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+36100
+Timestamp: 1655354188.319866        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+36200
+Timestamp: 1655354188.320465        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+36300
+Timestamp: 1655354188.336268        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+36400
+Timestamp: 1655354188.337155        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+36500
+Timestamp: 1655354188.337639        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+36600
+Timestamp: 1655354188.338108        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+36700
+Timestamp: 1655354188.338605        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+36800
+Timestamp: 1655354188.339670        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+36900
+Timestamp: 1655354188.351754        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+37000
+Timestamp: 1655354188.352232        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+37100
+Timestamp: 1655354188.352713        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+37200
+Timestamp: 1655354188.353162        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+37300
+Timestamp: 1655354188.353664        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+37400
+Timestamp: 1655354188.354120        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+37500
+Timestamp: 1655354188.368088        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+37600
+Timestamp: 1655354188.368583        ID: 0159    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+37700
+Timestamp: 1655354188.369043        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+37800
+Timestamp: 1655354188.369552        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+37900
+Timestamp: 1655354188.370010        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+38000
+Timestamp: 1655354188.370491        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+38100
+Timestamp: 1655354188.386036        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+38200
+Timestamp: 1655354188.386841        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+38300
+Timestamp: 1655354188.388117        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+38400
+Timestamp: 1655354188.388600        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+38500
+Timestamp: 1655354188.389098        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+38600
+Timestamp: 1655354188.390316        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+38700
+Timestamp: 1655354188.401255        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+38800
+Timestamp: 1655354188.401751        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+38900
+Timestamp: 1655354188.402228        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+39000
+Timestamp: 1655354188.402720        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+39100
+Timestamp: 1655354188.403148        ID: 020c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+39200
+Timestamp: 1655354188.403628        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+39300
+Timestamp: 1655354188.418530        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+39400
+Timestamp: 1655354188.419318        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+39500
+Timestamp: 1655354188.420509        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+39600
+Timestamp: 1655354188.420992        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+39700
+Timestamp: 1655354188.421478        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+39800
+Timestamp: 1655354188.421931        ID: 01ce    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+39900
+Timestamp: 1655354188.435125        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+40000
+Timestamp: 1655354188.435822        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+40100
+Timestamp: 1655354188.436241        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+40200
+Timestamp: 1655354188.437261        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+40300
+Timestamp: 1655354188.437751        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+40400
+Timestamp: 1655354188.438223        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+40500
+Timestamp: 1655354188.451353        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+40600
+Timestamp: 1655354188.451867        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+40700
+Timestamp: 1655354188.452319        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+40800
+Timestamp: 1655354188.452795        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+40900
+Timestamp: 1655354188.453278        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+41000
+Timestamp: 1655354188.453761        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+41100
+Timestamp: 1655354188.467970        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+41200
+Timestamp: 1655354188.468447        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+41300
+Timestamp: 1655354188.468931        ID: 01ac    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+41400
+Timestamp: 1655354188.469417        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+41500
+Timestamp: 1655354188.470126        ID: 020b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+41600
+Timestamp: 1655354188.470794        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+41700
+Timestamp: 1655354188.485251        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+41800
+Timestamp: 1655354188.485763        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+41900
+Timestamp: 1655354188.486243        ID: 01ac    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+42000
+Timestamp: 1655354188.486722        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+42100
+Timestamp: 1655354188.487200        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+42200
+Timestamp: 1655354188.487686        ID: 01c6    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+42300
+Timestamp: 1655354188.501315        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+42400
+Timestamp: 1655354188.501779        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+42500
+Timestamp: 1655354188.502255        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+42600
+Timestamp: 1655354188.502745        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+42700
+Timestamp: 1655354188.503229        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+42800
+Timestamp: 1655354188.503699        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+42900
+Timestamp: 1655354188.517804        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+43000
+Timestamp: 1655354188.518264        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+43100
+Timestamp: 1655354188.518745        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+43200
+Timestamp: 1655354188.519215        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+43300
+Timestamp: 1655354188.521518        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+43400
+Timestamp: 1655354188.521528        ID: 01cd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+43500
+Timestamp: 1655354188.535327        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+43600
+Timestamp: 1655354188.535934        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+43700
+Timestamp: 1655354188.536405        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+43800
+Timestamp: 1655354188.537320        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+43900
+Timestamp: 1655354188.537892        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+44000
+Timestamp: 1655354188.538333        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+44100
+Timestamp: 1655354188.552565        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+44200
+Timestamp: 1655354188.552659        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+44300
+Timestamp: 1655354188.553336        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+44400
+Timestamp: 1655354188.553823        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+44500
+Timestamp: 1655354188.554332        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+44600
+Timestamp: 1655354188.554790        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+44700
+Timestamp: 1655354188.568269        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+44800
+Timestamp: 1655354188.569184        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+44900
+Timestamp: 1655354188.569669        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+45000
+Timestamp: 1655354188.570169        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+45100
+Timestamp: 1655354188.570634        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+45200
+Timestamp: 1655354188.571340        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+45300
+Timestamp: 1655354188.585323        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+45400
+Timestamp: 1655354188.585890        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+45500
+Timestamp: 1655354188.586310        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+45600
+Timestamp: 1655354188.587273        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+45700
+Timestamp: 1655354188.587774        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+45800
+Timestamp: 1655354188.588250        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+45900
+Timestamp: 1655354188.603826        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+46000
+Timestamp: 1655354188.604585        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+46100
+Timestamp: 1655354188.605069        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+46200
+Timestamp: 1655354188.605552        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+46300
+Timestamp: 1655354188.606628        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+46400
+Timestamp: 1655354188.607095        ID: 01bc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+46500
+Timestamp: 1655354188.618112        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+46600
+Timestamp: 1655354188.618773        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+46700
+Timestamp: 1655354188.619275        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+46800
+Timestamp: 1655354188.619766        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+46900
+Timestamp: 1655354188.620249        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+47000
+Timestamp: 1655354188.620707        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+47100
+Timestamp: 1655354188.634761        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+47200
+Timestamp: 1655354188.634995        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+47300
+Timestamp: 1655354188.635472        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+47400
+Timestamp: 1655354188.635963        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+47500
+Timestamp: 1655354188.636448        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+47600
+Timestamp: 1655354188.636946        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+47700
+Timestamp: 1655354188.651533        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+47800
+Timestamp: 1655354188.652008        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+47900
+Timestamp: 1655354188.652486        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+48000
+Timestamp: 1655354188.652970        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+48100
+Timestamp: 1655354188.653463        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+48200
+Timestamp: 1655354188.653950        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+48300
+Timestamp: 1655354188.667975        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+48400
+Timestamp: 1655354188.668407        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+48500
+Timestamp: 1655354188.668960        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+48600
+Timestamp: 1655354188.669392        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+48700
+Timestamp: 1655354188.669855        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+48800
+Timestamp: 1655354188.670417        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+48900
+Timestamp: 1655354188.684449        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+49000
+Timestamp: 1655354188.685107        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+49100
+Timestamp: 1655354188.685702        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+49200
+Timestamp: 1655354188.686163        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+49300
+Timestamp: 1655354188.686666        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+49400
+Timestamp: 1655354188.687111        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+49500
+Timestamp: 1655354188.702055        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+49600
+Timestamp: 1655354188.702444        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+49700
+Timestamp: 1655354188.702971        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+49800
+Timestamp: 1655354188.703784        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+49900
+Timestamp: 1655354188.704472        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+50000
+Timestamp: 1655354188.704970        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+50100
+Timestamp: 1655354188.718195        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+50200
+Timestamp: 1655354188.718697        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+50300
+Timestamp: 1655354188.719192        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+50400
+Timestamp: 1655354188.719677        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+50500
+Timestamp: 1655354188.720153        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+50600
+Timestamp: 1655354188.720606        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+50700
+Timestamp: 1655354188.734772        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+50800
+Timestamp: 1655354188.735254        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+50900
+Timestamp: 1655354188.735734        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+51000
+Timestamp: 1655354188.736227        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+51100
+Timestamp: 1655354188.736716        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+51200
+Timestamp: 1655354188.737172        ID: 01ce    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+51300
+Timestamp: 1655354188.752272        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+51400
+Timestamp: 1655354188.752756        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+51500
+Timestamp: 1655354188.753275        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+51600
+Timestamp: 1655354188.753760        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+51700
+Timestamp: 1655354188.754243        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+51800
+Timestamp: 1655354188.754728        ID: 01be    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+51900
+Timestamp: 1655354188.768209        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+52000
+Timestamp: 1655354188.768701        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+52100
+Timestamp: 1655354188.769183        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+52200
+Timestamp: 1655354188.769648        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+52300
+Timestamp: 1655354188.770135        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+52400
+Timestamp: 1655354188.770602        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+52500
+Timestamp: 1655354188.785477        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+52600
+Timestamp: 1655354188.786016        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+52700
+Timestamp: 1655354188.786713        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+52800
+Timestamp: 1655354188.787216        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+52900
+Timestamp: 1655354188.787706        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+53000
+Timestamp: 1655354188.788167        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+53100
+Timestamp: 1655354188.802111        ID: 01e1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+53200
+Timestamp: 1655354188.802649        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+53300
+Timestamp: 1655354188.803825        ID: 01a5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+53400
+Timestamp: 1655354188.804336        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+53500
+Timestamp: 1655354188.804816        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+53600
+Timestamp: 1655354188.805275        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+53700
+Timestamp: 1655354188.819529        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+53800
+Timestamp: 1655354188.820148        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+53900
+Timestamp: 1655354188.820640        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+54000
+Timestamp: 1655354188.821116        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+54100
+Timestamp: 1655354188.822327        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+54200
+Timestamp: 1655354188.822781        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+54300
+Timestamp: 1655354188.835040        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+54400
+Timestamp: 1655354188.835555        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+54500
+Timestamp: 1655354188.836042        ID: 01b6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+54600
+Timestamp: 1655354188.836702        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+54700
+Timestamp: 1655354188.837170        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+54800
+Timestamp: 1655354188.837639        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+54900
+Timestamp: 1655354188.851562        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+55000
+Timestamp: 1655354188.852296        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+55100
+Timestamp: 1655354188.852789        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+55200
+Timestamp: 1655354188.853245        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+55300
+Timestamp: 1655354188.854704        ID: 020b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+55400
+Timestamp: 1655354188.855167        ID: 01ce    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+55500
+Timestamp: 1655354188.869645        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+55600
+Timestamp: 1655354188.870637        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+55700
+Timestamp: 1655354188.871380        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+55800
+Timestamp: 1655354188.871886        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+55900
+Timestamp: 1655354188.872380        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+56000
+Timestamp: 1655354188.872859        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+56100
+Timestamp: 1655354188.884712        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+56200
+Timestamp: 1655354188.885170        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+56300
+Timestamp: 1655354188.885669        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+56400
+Timestamp: 1655354188.886157        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+56500
+Timestamp: 1655354188.886619        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+56600
+Timestamp: 1655354188.887067        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+56700
+Timestamp: 1655354188.902432        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+56800
+Timestamp: 1655354188.903209        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+56900
+Timestamp: 1655354188.904436        ID: 01a5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+57000
+Timestamp: 1655354188.905182        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+57100
+Timestamp: 1655354188.905670        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+57200
+Timestamp: 1655354188.906129        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+57300
+Timestamp: 1655354188.918661        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+57400
+Timestamp: 1655354188.919168        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+57500
+Timestamp: 1655354188.919654        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+57600
+Timestamp: 1655354188.920650        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+57700
+Timestamp: 1655354188.921570        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+57800
+Timestamp: 1655354188.922040        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+57900
+Timestamp: 1655354188.934954        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+58000
+Timestamp: 1655354188.935433        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+58100
+Timestamp: 1655354188.935914        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+58200
+Timestamp: 1655354188.936405        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+58300
+Timestamp: 1655354188.936873        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+58400
+Timestamp: 1655354188.937345        ID: 01bc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+58500
+Timestamp: 1655354188.951795        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+58600
+Timestamp: 1655354188.952901        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+58700
+Timestamp: 1655354188.953794        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+58800
+Timestamp: 1655354188.954245        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+58900
+Timestamp: 1655354188.954733        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+59000
+Timestamp: 1655354188.955199        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+59100
+Timestamp: 1655354188.968319        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+59200
+Timestamp: 1655354188.968868        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+59300
+Timestamp: 1655354188.969329        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+59400
+Timestamp: 1655354188.969811        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+59500
+Timestamp: 1655354188.970364        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+59600
+Timestamp: 1655354188.970766        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+59700
+Timestamp: 1655354188.984869        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+59800
+Timestamp: 1655354188.985309        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+59900
+Timestamp: 1655354188.985783        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+60000
+Timestamp: 1655354188.986254        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+60100
+Timestamp: 1655354188.986749        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+60200
+Timestamp: 1655354188.987211        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+60300
+Timestamp: 1655354189.001812        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+60400
+Timestamp: 1655354189.002795        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+60500
+Timestamp: 1655354189.003291        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+60600
+Timestamp: 1655354189.003760        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+60700
+Timestamp: 1655354189.004242        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+60800
+Timestamp: 1655354189.004718        ID: 01be    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+60900
+Timestamp: 1655354189.018692        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+61000
+Timestamp: 1655354189.019428        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+61100
+Timestamp: 1655354189.019897        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+61200
+Timestamp: 1655354189.020471        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+61300
+Timestamp: 1655354189.020947        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+61400
+Timestamp: 1655354189.021413        ID: 01c4    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+61500
+Timestamp: 1655354189.035436        ID: 01d6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+61600
+Timestamp: 1655354189.035910        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+61700
+Timestamp: 1655354189.036418        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+61800
+Timestamp: 1655354189.036895        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+61900
+Timestamp: 1655354189.037368        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+62000
+Timestamp: 1655354189.037814        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+62100
+Timestamp: 1655354189.051976        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+62200
+Timestamp: 1655354189.052591        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+62300
+Timestamp: 1655354189.053686        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+62400
+Timestamp: 1655354189.054146        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+62500
+Timestamp: 1655354189.054642        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+62600
+Timestamp: 1655354189.055095        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+62700
+Timestamp: 1655354189.068559        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+62800
+Timestamp: 1655354189.069659        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+62900
+Timestamp: 1655354189.070129        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+63000
+Timestamp: 1655354189.070629        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+63100
+Timestamp: 1655354189.071114        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+63200
+Timestamp: 1655354189.071587        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+63300
+Timestamp: 1655354189.086126        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+63400
+Timestamp: 1655354189.087040        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+63500
+Timestamp: 1655354189.087398        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+63600
+Timestamp: 1655354189.087854        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+63700
+Timestamp: 1655354189.089087        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+63800
+Timestamp: 1655354189.089511        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+63900
+Timestamp: 1655354189.101836        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+64000
+Timestamp: 1655354189.102374        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+64100
+Timestamp: 1655354189.102786        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+64200
+Timestamp: 1655354189.103286        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+64300
+Timestamp: 1655354189.103754        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+64400
+Timestamp: 1655354189.104226        ID: 01c4    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+64500
+Timestamp: 1655354189.118568        ID: 01e1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+64600
+Timestamp: 1655354189.119416        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+64700
+Timestamp: 1655354189.119884        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+64800
+Timestamp: 1655354189.120347        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+64900
+Timestamp: 1655354189.120840        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+65000
+Timestamp: 1655354189.121301        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+65100
+Timestamp: 1655354189.135927        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+65200
+Timestamp: 1655354189.136594        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+65300
+Timestamp: 1655354189.137311        ID: 01ac    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+65400
+Timestamp: 1655354189.137770        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+65500
+Timestamp: 1655354189.138251        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+65600
+Timestamp: 1655354189.138735        ID: 01ce    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+65700
+Timestamp: 1655354189.151213        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+65800
+Timestamp: 1655354189.151712        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+65900
+Timestamp: 1655354189.152170        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+66000
+Timestamp: 1655354189.152656        ID: 01e8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+66100
+Timestamp: 1655354189.153141        ID: 0202    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+66200
+Timestamp: 1655354189.153622        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+66300
+Timestamp: 1655354189.169179        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+66400
+Timestamp: 1655354189.169493        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+66500
+Timestamp: 1655354189.170360        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+66600
+Timestamp: 1655354189.170779        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+66700
+Timestamp: 1655354189.171281        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+66800
+Timestamp: 1655354189.171748        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+66900
+Timestamp: 1655354189.185134        ID: 01d9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+67000
+Timestamp: 1655354189.185745        ID: 0159    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+67100
+Timestamp: 1655354189.186315        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+67200
+Timestamp: 1655354189.186761        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+67300
+Timestamp: 1655354189.187239        ID: 020b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+67400
+Timestamp: 1655354189.187727        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+67500
+Timestamp: 1655354189.201704        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+67600
+Timestamp: 1655354189.202038        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+67700
+Timestamp: 1655354189.202538        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+67800
+Timestamp: 1655354189.203060        ID: 01e8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+67900
+Timestamp: 1655354189.203514        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+68000
+Timestamp: 1655354189.203963        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+68100
+Timestamp: 1655354189.218758        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+68200
+Timestamp: 1655354189.219309        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+68300
+Timestamp: 1655354189.219812        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+68400
+Timestamp: 1655354189.220809        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+68500
+Timestamp: 1655354189.221584        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+68600
+Timestamp: 1655354189.222039        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+68700
+Timestamp: 1655354189.235081        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+68800
+Timestamp: 1655354189.235570        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+68900
+Timestamp: 1655354189.236004        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+69000
+Timestamp: 1655354189.236496        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+69100
+Timestamp: 1655354189.236975        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+69200
+Timestamp: 1655354189.237427        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+69300
+Timestamp: 1655354189.251896        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+69400
+Timestamp: 1655354189.252432        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+69500
+Timestamp: 1655354189.252828        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+69600
+Timestamp: 1655354189.253371        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+69700
+Timestamp: 1655354189.253805        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+69800
+Timestamp: 1655354189.254246        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+69900
+Timestamp: 1655354189.268727        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+70000
+Timestamp: 1655354189.269365        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+70100
+Timestamp: 1655354189.269837        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+70200
+Timestamp: 1655354189.271230        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+70300
+Timestamp: 1655354189.271689        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+70400
+Timestamp: 1655354189.272167        ID: 01ce    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+70500
+Timestamp: 1655354189.285324        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+70600
+Timestamp: 1655354189.285937        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+70700
+Timestamp: 1655354189.286482        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+70800
+Timestamp: 1655354189.287172        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+70900
+Timestamp: 1655354189.287621        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+71000
+Timestamp: 1655354189.288085        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+71100
+Timestamp: 1655354189.302270        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+71200
+Timestamp: 1655354189.302902        ID: 0159    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+71300
+Timestamp: 1655354189.305032        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+71400
+Timestamp: 1655354189.305546        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+71500
+Timestamp: 1655354189.306018        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+71600
+Timestamp: 1655354189.306456        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+71700
+Timestamp: 1655354189.318276        ID: 01d9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+71800
+Timestamp: 1655354189.318748        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+71900
+Timestamp: 1655354189.319260        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+72000
+Timestamp: 1655354189.319776        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+72100
+Timestamp: 1655354189.320220        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+72200
+Timestamp: 1655354189.320674        ID: 01c4    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+72300
+Timestamp: 1655354189.334717        ID: 01d9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+72400
+Timestamp: 1655354189.335232        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+72500
+Timestamp: 1655354189.335716        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+72600
+Timestamp: 1655354189.336210        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+72700
+Timestamp: 1655354189.336658        ID: 020b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+72800
+Timestamp: 1655354189.337132        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+72900
+Timestamp: 1655354189.351960        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+73000
+Timestamp: 1655354189.352441        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+73100
+Timestamp: 1655354189.352915        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+73200
+Timestamp: 1655354189.353407        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+73300
+Timestamp: 1655354189.353892        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+73400
+Timestamp: 1655354189.354320        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+73500
+Timestamp: 1655354189.368502        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+73600
+Timestamp: 1655354189.368999        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+73700
+Timestamp: 1655354189.369466        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+73800
+Timestamp: 1655354189.369960        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+73900
+Timestamp: 1655354189.370419        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+74000
+Timestamp: 1655354189.370899        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+74100
+Timestamp: 1655354189.386016        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+74200
+Timestamp: 1655354189.386633        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+74300
+Timestamp: 1655354189.387601        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+74400
+Timestamp: 1655354189.388172        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+74500
+Timestamp: 1655354189.388673        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+74600
+Timestamp: 1655354189.389254        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+74700
+Timestamp: 1655354189.401591        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+74800
+Timestamp: 1655354189.402069        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+74900
+Timestamp: 1655354189.402527        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+75000
+Timestamp: 1655354189.403034        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+75100
+Timestamp: 1655354189.403521        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+75200
+Timestamp: 1655354189.403979        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+75300
+Timestamp: 1655354189.419193        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+75400
+Timestamp: 1655354189.419977        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+75500
+Timestamp: 1655354189.420752        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+75600
+Timestamp: 1655354189.421267        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+75700
+Timestamp: 1655354189.421736        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+75800
+Timestamp: 1655354189.422249        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+75900
+Timestamp: 1655354189.436547        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+76000
+Timestamp: 1655354189.437949        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+76100
+Timestamp: 1655354189.438670        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+76200
+Timestamp: 1655354189.439351        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+76300
+Timestamp: 1655354189.439836        ID: 0205    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+76400
+Timestamp: 1655354189.440321        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+76500
+Timestamp: 1655354189.451682        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+76600
+Timestamp: 1655354189.452181        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+76700
+Timestamp: 1655354189.452651        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+76800
+Timestamp: 1655354189.453125        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+76900
+Timestamp: 1655354189.453607        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+77000
+Timestamp: 1655354189.454057        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+77100
+Timestamp: 1655354189.468429        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+77200
+Timestamp: 1655354189.468924        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+77300
+Timestamp: 1655354189.469403        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+77400
+Timestamp: 1655354189.469887        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+77500
+Timestamp: 1655354189.470373        ID: 020b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+77600
+Timestamp: 1655354189.470824        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+77700
+Timestamp: 1655354189.485113        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+77800
+Timestamp: 1655354189.485620        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+77900
+Timestamp: 1655354189.486055        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+78000
+Timestamp: 1655354189.486557        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+78100
+Timestamp: 1655354189.487039        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+78200
+Timestamp: 1655354189.487512        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+78300
+Timestamp: 1655354189.502452        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+78400
+Timestamp: 1655354189.503029        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+78500
+Timestamp: 1655354189.503524        ID: 01b6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+78600
+Timestamp: 1655354189.504671        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+78700
+Timestamp: 1655354189.505180        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+78800
+Timestamp: 1655354189.505663        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+78900
+Timestamp: 1655354189.519753        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+79000
+Timestamp: 1655354189.520235        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+79100
+Timestamp: 1655354189.520730        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+79200
+Timestamp: 1655354189.521201        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+79300
+Timestamp: 1655354189.521689        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+79400
+Timestamp: 1655354189.522154        ID: 01c8    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+79500
+Timestamp: 1655354189.535690        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+79600
+Timestamp: 1655354189.536514        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+79700
+Timestamp: 1655354189.537101        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+79800
+Timestamp: 1655354189.537598        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+79900
+Timestamp: 1655354189.538058        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+80000
+Timestamp: 1655354189.538528        ID: 01cd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+80100
+Timestamp: 1655354189.552809        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+80200
+Timestamp: 1655354189.553696        ID: 0159    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+80300
+Timestamp: 1655354189.554329        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+80400
+Timestamp: 1655354189.555001        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+80500
+Timestamp: 1655354189.555510        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+80600
+Timestamp: 1655354189.555969        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+80700
+Timestamp: 1655354189.568316        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+80800
+Timestamp: 1655354189.568772        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+80900
+Timestamp: 1655354189.569243        ID: 01ac    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+81000
+Timestamp: 1655354189.569725        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+81100
+Timestamp: 1655354189.570202        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+81200
+Timestamp: 1655354189.570647        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+81300
+Timestamp: 1655354189.585718        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+81400
+Timestamp: 1655354189.586299        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+81500
+Timestamp: 1655354189.586740        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+81600
+Timestamp: 1655354189.587874        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+81700
+Timestamp: 1655354189.588489        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+81800
+Timestamp: 1655354189.588964        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+81900
+Timestamp: 1655354189.602648        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+82000
+Timestamp: 1655354189.603217        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+82100
+Timestamp: 1655354189.604455        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+82200
+Timestamp: 1655354189.605333        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+82300
+Timestamp: 1655354189.605819        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+82400
+Timestamp: 1655354189.606314        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+82500
+Timestamp: 1655354189.618327        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+82600
+Timestamp: 1655354189.618822        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+82700
+Timestamp: 1655354189.619316        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+82800
+Timestamp: 1655354189.619793        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+82900
+Timestamp: 1655354189.620331        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+83000
+Timestamp: 1655354189.620745        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+83100
+Timestamp: 1655354189.635504        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+83200
+Timestamp: 1655354189.635990        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+83300
+Timestamp: 1655354189.636477        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+83400
+Timestamp: 1655354189.636898        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+83500
+Timestamp: 1655354189.637384        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+83600
+Timestamp: 1655354189.637871        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+83700
+Timestamp: 1655354189.652621        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+83800
+Timestamp: 1655354189.653168        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+83900
+Timestamp: 1655354189.654077        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+84000
+Timestamp: 1655354189.655079        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+84100
+Timestamp: 1655354189.655561        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+84200
+Timestamp: 1655354189.656045        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+84300
+Timestamp: 1655354189.668442        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+84400
+Timestamp: 1655354189.668902        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+84500
+Timestamp: 1655354189.669411        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+84600
+Timestamp: 1655354189.669903        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+84700
+Timestamp: 1655354189.670386        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+84800
+Timestamp: 1655354189.671091        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+84900
+Timestamp: 1655354189.687197        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+85000
+Timestamp: 1655354189.687667        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+85100
+Timestamp: 1655354189.688161        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+85200
+Timestamp: 1655354189.688645        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+85300
+Timestamp: 1655354189.689140        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+85400
+Timestamp: 1655354189.689602        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+85500
+Timestamp: 1655354189.702924        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+85600
+Timestamp: 1655354189.703767        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+85700
+Timestamp: 1655354189.704294        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+85800
+Timestamp: 1655354189.704756        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+85900
+Timestamp: 1655354189.705263        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+86000
+Timestamp: 1655354189.705732        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+86100
+Timestamp: 1655354189.719125        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+86200
+Timestamp: 1655354189.719640        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+86300
+Timestamp: 1655354189.720121        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+86400
+Timestamp: 1655354189.721464        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+86500
+Timestamp: 1655354189.721941        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+86600
+Timestamp: 1655354189.722429        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+86700
+Timestamp: 1655354189.736009        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+86800
+Timestamp: 1655354189.737459        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+86900
+Timestamp: 1655354189.737950        ID: 01b6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+87000
+Timestamp: 1655354189.738456        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+87100
+Timestamp: 1655354189.738932        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+87200
+Timestamp: 1655354189.739861        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+87300
+Timestamp: 1655354189.752393        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+87400
+Timestamp: 1655354189.752886        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+87500
+Timestamp: 1655354189.753370        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+87600
+Timestamp: 1655354189.753847        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+87700
+Timestamp: 1655354189.754390        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+87800
+Timestamp: 1655354189.754809        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+87900
+Timestamp: 1655354189.769174        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+88000
+Timestamp: 1655354189.769780        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+88100
+Timestamp: 1655354189.770365        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+88200
+Timestamp: 1655354189.770878        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+88300
+Timestamp: 1655354189.771372        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+88400
+Timestamp: 1655354189.771796        ID: 01ce    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+88500
+Timestamp: 1655354189.786044        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+88600
+Timestamp: 1655354189.786618        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+88700
+Timestamp: 1655354189.787095        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+88800
+Timestamp: 1655354189.788541        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+88900
+Timestamp: 1655354189.789003        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+89000
+Timestamp: 1655354189.789457        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+89100
+Timestamp: 1655354189.801901        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+89200
+Timestamp: 1655354189.802383        ID: 0159    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+89300
+Timestamp: 1655354189.802857        ID: 01b6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+89400
+Timestamp: 1655354189.803380        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+89500
+Timestamp: 1655354189.803806        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+89600
+Timestamp: 1655354189.804288        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+89700
+Timestamp: 1655354189.820072        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+89800
+Timestamp: 1655354189.820542        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+89900
+Timestamp: 1655354189.821036        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+90000
+Timestamp: 1655354189.821515        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+90100
+Timestamp: 1655354189.822004        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+90200
+Timestamp: 1655354189.822469        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+90300
+Timestamp: 1655354189.835794        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+90400
+Timestamp: 1655354189.836399        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+90500
+Timestamp: 1655354189.836834        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+90600
+Timestamp: 1655354189.837592        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+90700
+Timestamp: 1655354189.838060        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+90800
+Timestamp: 1655354189.838540        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+90900
+Timestamp: 1655354189.851958        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+91000
+Timestamp: 1655354189.852458        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+91100
+Timestamp: 1655354189.852945        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+91200
+Timestamp: 1655354189.853474        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+91300
+Timestamp: 1655354189.853844        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+91400
+Timestamp: 1655354189.854334        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+91500
+Timestamp: 1655354189.869136        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+91600
+Timestamp: 1655354189.869630        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+91700
+Timestamp: 1655354189.870127        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+91800
+Timestamp: 1655354189.871329        ID: 01e8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+91900
+Timestamp: 1655354189.871788        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+92000
+Timestamp: 1655354189.872230        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+92100
+Timestamp: 1655354189.886105        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+92200
+Timestamp: 1655354189.886647        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+92300
+Timestamp: 1655354189.887141        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+92400
+Timestamp: 1655354189.887625        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+92500
+Timestamp: 1655354189.888123        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+92600
+Timestamp: 1655354189.888589        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+92700
+Timestamp: 1655354189.902167        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+92800
+Timestamp: 1655354189.902637        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+92900
+Timestamp: 1655354189.903115        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+93000
+Timestamp: 1655354189.903594        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+93100
+Timestamp: 1655354189.904087        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+93200
+Timestamp: 1655354189.904557        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+93300
+Timestamp: 1655354189.918551        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+93400
+Timestamp: 1655354189.918992        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+93500
+Timestamp: 1655354189.919480        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+93600
+Timestamp: 1655354189.919957        ID: 01e7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+93700
+Timestamp: 1655354189.920439        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+93800
+Timestamp: 1655354189.920924        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+93900
+Timestamp: 1655354189.935271        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+94000
+Timestamp: 1655354189.935743        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+94100
+Timestamp: 1655354189.936211        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+94200
+Timestamp: 1655354189.936710        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+94300
+Timestamp: 1655354189.937197        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+94400
+Timestamp: 1655354189.937657        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+94500
+Timestamp: 1655354189.953146        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+94600
+Timestamp: 1655354189.953608        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+94700
+Timestamp: 1655354189.954084        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+94800
+Timestamp: 1655354189.954592        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+94900
+Timestamp: 1655354189.955491        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+95000
+Timestamp: 1655354189.955951        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+95100
+Timestamp: 1655354189.971467        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+95200
+Timestamp: 1655354189.971951        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+95300
+Timestamp: 1655354189.972450        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+95400
+Timestamp: 1655354189.972925        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+95500
+Timestamp: 1655354189.973447        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+95600
+Timestamp: 1655354189.973879        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+95700
+Timestamp: 1655354189.986935        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+95800
+Timestamp: 1655354189.987491        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+95900
+Timestamp: 1655354189.987978        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+96000
+Timestamp: 1655354189.988472        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+96100
+Timestamp: 1655354189.988950        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+96200
+Timestamp: 1655354189.989458        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+96300
+Timestamp: 1655354190.002479        ID: 01e1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+96400
+Timestamp: 1655354190.002878        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+96500
+Timestamp: 1655354190.003346        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+96600
+Timestamp: 1655354190.003831        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+96700
+Timestamp: 1655354190.004315        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+96800
+Timestamp: 1655354190.004794        ID: 01be    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+96900
+Timestamp: 1655354190.018557        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+97000
+Timestamp: 1655354190.019020        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+97100
+Timestamp: 1655354190.019476        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+97200
+Timestamp: 1655354190.019976        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+97300
+Timestamp: 1655354190.020474        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+97400
+Timestamp: 1655354190.020924        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+97500
+Timestamp: 1655354190.036190        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+97600
+Timestamp: 1655354190.036927        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+97700
+Timestamp: 1655354190.037401        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+97800
+Timestamp: 1655354190.037877        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+97900
+Timestamp: 1655354190.038374        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+98000
+Timestamp: 1655354190.038826        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+98100
+Timestamp: 1655354190.052504        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+98200
+Timestamp: 1655354190.053229        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+98300
+Timestamp: 1655354190.053723        ID: 01aa    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+98400
+Timestamp: 1655354190.054610        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+98500
+Timestamp: 1655354190.055093        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+98600
+Timestamp: 1655354190.055552        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+98700
+Timestamp: 1655354190.068647        ID: 01d9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+98800
+Timestamp: 1655354190.069137        ID: 0152    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+98900
+Timestamp: 1655354190.069612        ID: 01ad    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+99000
+Timestamp: 1655354190.070096        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+99100
+Timestamp: 1655354190.070579        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+99200
+Timestamp: 1655354190.071051        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+99300
+Timestamp: 1655354190.085991        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+99400
+Timestamp: 1655354190.086889        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+99500
+Timestamp: 1655354190.088914        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+99600
+Timestamp: 1655354190.089396        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+99700
+Timestamp: 1655354190.089868        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+99800
+Timestamp: 1655354190.090315        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+99900
+Timestamp: 1655354190.101919        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+100000
+Timestamp: 1655354190.102402        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+100100
+Timestamp: 1655354190.102909        ID: 01a5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+100200
+Timestamp: 1655354190.103375        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+100300
+Timestamp: 1655354190.103869        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+100400
+Timestamp: 1655354190.104336        ID: 01be    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+100500
+Timestamp: 1655354190.118775        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+100600
+Timestamp: 1655354190.119272        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+100700
+Timestamp: 1655354190.119746        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+100800
+Timestamp: 1655354190.120230        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+100900
+Timestamp: 1655354190.120709        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+101000
+Timestamp: 1655354190.121191        ID: 01be    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+101100
+Timestamp: 1655354190.137362        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+101200
+Timestamp: 1655354190.137927        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+101300
+Timestamp: 1655354190.138864        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+101400
+Timestamp: 1655354190.139354        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+101500
+Timestamp: 1655354190.139851        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+101600
+Timestamp: 1655354190.140321        ID: 01c0    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+101700
+Timestamp: 1655354190.153005        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+101800
+Timestamp: 1655354190.153433        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+101900
+Timestamp: 1655354190.153922        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+102000
+Timestamp: 1655354190.154412        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+102100
+Timestamp: 1655354190.154908        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+102200
+Timestamp: 1655354190.155355        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+102300
+Timestamp: 1655354190.169711        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+102400
+Timestamp: 1655354190.170215        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+102500
+Timestamp: 1655354190.170628        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+102600
+Timestamp: 1655354190.171108        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+102700
+Timestamp: 1655354190.171588        ID: 020c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+102800
+Timestamp: 1655354190.172055        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+102900
+Timestamp: 1655354190.185508        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+103000
+Timestamp: 1655354190.186010        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+103100
+Timestamp: 1655354190.186481        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+103200
+Timestamp: 1655354190.186948        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+103300
+Timestamp: 1655354190.187420        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+103400
+Timestamp: 1655354190.187891        ID: 01c6    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+103500
+Timestamp: 1655354190.202577        ID: 01d9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+103600
+Timestamp: 1655354190.203116        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+103700
+Timestamp: 1655354190.203593        ID: 01a5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+103800
+Timestamp: 1655354190.204548        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+103900
+Timestamp: 1655354190.205143        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+104000
+Timestamp: 1655354190.205635        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+104100
+Timestamp: 1655354190.219247        ID: 01e1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+104200
+Timestamp: 1655354190.219847        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+104300
+Timestamp: 1655354190.220319        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+104400
+Timestamp: 1655354190.220810        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+104500
+Timestamp: 1655354190.221297        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+104600
+Timestamp: 1655354190.221755        ID: 01bc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+104700
+Timestamp: 1655354190.235508        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+104800
+Timestamp: 1655354190.235961        ID: 014b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+104900
+Timestamp: 1655354190.236412        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+105000
+Timestamp: 1655354190.236897        ID: 01e6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+105100
+Timestamp: 1655354190.237382        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+105200
+Timestamp: 1655354190.237849        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+105300
+Timestamp: 1655354190.252716        ID: 01dd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+105400
+Timestamp: 1655354190.253378        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+105500
+Timestamp: 1655354190.253782        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+105600
+Timestamp: 1655354190.255108        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+105700
+Timestamp: 1655354190.255596        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+105800
+Timestamp: 1655354190.256072        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+105900
+Timestamp: 1655354190.269277        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+106000
+Timestamp: 1655354190.269907        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+106100
+Timestamp: 1655354190.271006        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+106200
+Timestamp: 1655354190.271504        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+106300
+Timestamp: 1655354190.271951        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+106400
+Timestamp: 1655354190.272404        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+106500
+Timestamp: 1655354190.285733        ID: 01d5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+106600
+Timestamp: 1655354190.286223        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+106700
+Timestamp: 1655354190.286723        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+106800
+Timestamp: 1655354190.287209        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+106900
+Timestamp: 1655354190.287691        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+107000
+Timestamp: 1655354190.288161        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+107100
+Timestamp: 1655354190.302314        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+107200
+Timestamp: 1655354190.303243        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+107300
+Timestamp: 1655354190.303981        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+107400
+Timestamp: 1655354190.304623        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+107500
+Timestamp: 1655354190.305249        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+107600
+Timestamp: 1655354190.305705        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+107700
+Timestamp: 1655354190.318695        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+107800
+Timestamp: 1655354190.319164        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+107900
+Timestamp: 1655354190.319652        ID: 01b6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+108000
+Timestamp: 1655354190.320135        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+108100
+Timestamp: 1655354190.320626        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+108200
+Timestamp: 1655354190.321099        ID: 01c4    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+108300
+Timestamp: 1655354190.335318        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+108400
+Timestamp: 1655354190.335802        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+108500
+Timestamp: 1655354190.336295        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+108600
+Timestamp: 1655354190.336772        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+108700
+Timestamp: 1655354190.337259        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+108800
+Timestamp: 1655354190.337726        ID: 01cd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+108900
+Timestamp: 1655354190.352234        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+109000
+Timestamp: 1655354190.352848        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+109100
+Timestamp: 1655354190.353774        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+109200
+Timestamp: 1655354190.354264        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+109300
+Timestamp: 1655354190.354929        ID: 020b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+109400
+Timestamp: 1655354190.355390        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+109500
+Timestamp: 1655354190.369025        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+109600
+Timestamp: 1655354190.369498        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+109700
+Timestamp: 1655354190.369986        ID: 01af    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+109800
+Timestamp: 1655354190.370455        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+109900
+Timestamp: 1655354190.370939        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+110000
+Timestamp: 1655354190.371418        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+110100
+Timestamp: 1655354190.385133        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+110200
+Timestamp: 1655354190.385620        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+110300
+Timestamp: 1655354190.386067        ID: 01b2    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+110400
+Timestamp: 1655354190.386612        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+110500
+Timestamp: 1655354190.387066        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+110600
+Timestamp: 1655354190.387527        ID: 01bd    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+110700
+Timestamp: 1655354190.402032        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+110800
+Timestamp: 1655354190.402552        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+110900
+Timestamp: 1655354190.403035        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+111000
+Timestamp: 1655354190.403518        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+111100
+Timestamp: 1655354190.404011        ID: 0207    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+111200
+Timestamp: 1655354190.404471        ID: 01c4    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+111300
+Timestamp: 1655354190.418635        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+111400
+Timestamp: 1655354190.419048        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+111500
+Timestamp: 1655354190.419532        ID: 01b6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+111600
+Timestamp: 1655354190.420016        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+111700
+Timestamp: 1655354190.420491        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+111800
+Timestamp: 1655354190.420955        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+111900
+Timestamp: 1655354190.435703        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+112000
+Timestamp: 1655354190.436872        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+112100
+Timestamp: 1655354190.437437        ID: 01a6    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+112200
+Timestamp: 1655354190.437920        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+112300
+Timestamp: 1655354190.438418        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+112400
+Timestamp: 1655354190.438867        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+112500
+Timestamp: 1655354190.451793        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+112600
+Timestamp: 1655354190.452253        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+112700
+Timestamp: 1655354190.452734        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+112800
+Timestamp: 1655354190.453224        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+112900
+Timestamp: 1655354190.453718        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+113000
+Timestamp: 1655354190.454173        ID: 01bc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+113100
+Timestamp: 1655354190.469253        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+113200
+Timestamp: 1655354190.469944        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+113300
+Timestamp: 1655354190.470438        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+113400
+Timestamp: 1655354190.471328        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+113500
+Timestamp: 1655354190.471816        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+113600
+Timestamp: 1655354190.472305        ID: 01cc    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+113700
+Timestamp: 1655354190.485831        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+113800
+Timestamp: 1655354190.486844        ID: 0151    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+113900
+Timestamp: 1655354190.487327        ID: 01ac    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+114000
+Timestamp: 1655354190.487807        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+114100
+Timestamp: 1655354190.488293        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+114200
+Timestamp: 1655354190.488761        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+114300
+Timestamp: 1655354190.502317        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+114400
+Timestamp: 1655354190.503009        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+114500
+Timestamp: 1655354190.503459        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+114600
+Timestamp: 1655354190.503943        ID: 01f2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+114700
+Timestamp: 1655354190.504433        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+114800
+Timestamp: 1655354190.505019        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+114900
+Timestamp: 1655354190.519930        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+115000
+Timestamp: 1655354190.520426        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+115100
+Timestamp: 1655354190.521340        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+115200
+Timestamp: 1655354190.521815        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+115300
+Timestamp: 1655354190.522308        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+115400
+Timestamp: 1655354190.522756        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+115500
+Timestamp: 1655354190.535893        ID: 01e0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+115600
+Timestamp: 1655354190.536402        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+115700
+Timestamp: 1655354190.536881        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+115800
+Timestamp: 1655354190.537930        ID: 01ef    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+115900
+Timestamp: 1655354190.538426        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+116000
+Timestamp: 1655354190.538883        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+116100
+Timestamp: 1655354190.552234        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+116200
+Timestamp: 1655354190.552720        ID: 015d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+116300
+Timestamp: 1655354190.553194        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+116400
+Timestamp: 1655354190.553683        ID: 01f7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+116500
+Timestamp: 1655354190.554155        ID: 020d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+116600
+Timestamp: 1655354190.554685        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+116700
+Timestamp: 1655354190.569466        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+116800
+Timestamp: 1655354190.570624        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+116900
+Timestamp: 1655354190.571466        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+117000
+Timestamp: 1655354190.571948        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+117100
+Timestamp: 1655354190.572439        ID: 01ff    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+117200
+Timestamp: 1655354190.572915        ID: 01bb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+117300
+Timestamp: 1655354190.585907        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+117400
+Timestamp: 1655354190.586437        ID: 0158    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+117500
+Timestamp: 1655354190.586977        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+117600
+Timestamp: 1655354190.587461        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+117700
+Timestamp: 1655354190.587952        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+117800
+Timestamp: 1655354190.588413        ID: 01c1    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+117900
+Timestamp: 1655354190.602499        ID: 01dc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+118000
+Timestamp: 1655354190.602992        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+118100
+Timestamp: 1655354190.603477        ID: 01b0    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+118200
+Timestamp: 1655354190.603984        ID: 01f5    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+118300
+Timestamp: 1655354190.604465        ID: 0203    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+118400
+Timestamp: 1655354190.604931        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+118500
+Timestamp: 1655354190.619184        ID: 01d1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+118600
+Timestamp: 1655354190.619999        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+118700
+Timestamp: 1655354190.620714        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+118800
+Timestamp: 1655354190.621133        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+118900
+Timestamp: 1655354190.621608        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+119000
+Timestamp: 1655354190.622077        ID: 01ba    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+119100
+Timestamp: 1655354190.635818        ID: 01e2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+119200
+Timestamp: 1655354190.636601        ID: 014e    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+119300
+Timestamp: 1655354190.637065        ID: 01a9    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+119400
+Timestamp: 1655354190.637590        ID: 01ec    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+119500
+Timestamp: 1655354190.638047        ID: 020c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+119600
+Timestamp: 1655354190.638510        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+119700
+Timestamp: 1655354190.652818        ID: 01e1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+119800
+Timestamp: 1655354190.653271        ID: 014f    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+119900
+Timestamp: 1655354190.653761        ID: 01a4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+120000
+Timestamp: 1655354190.654246        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+120100
+Timestamp: 1655354190.654737        ID: 01fb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+120200
+Timestamp: 1655354190.655196        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+120300
+Timestamp: 1655354190.669440        ID: 01de    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+120400
+Timestamp: 1655354190.670237        ID: 0150    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+120500
+Timestamp: 1655354190.670737        ID: 01a7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+120600
+Timestamp: 1655354190.671205        ID: 01f0    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+120700
+Timestamp: 1655354190.671734        ID: 0206    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+120800
+Timestamp: 1655354190.672154        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+120900
+Timestamp: 1655354190.685793        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+121000
+Timestamp: 1655354190.687315        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+121100
+Timestamp: 1655354190.687807        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+121200
+Timestamp: 1655354190.688284        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+121300
+Timestamp: 1655354190.688758        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+121400
+Timestamp: 1655354190.689229        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+121500
+Timestamp: 1655354190.704072        ID: 01da    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+121600
+Timestamp: 1655354190.705059        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+121700
+Timestamp: 1655354190.705470        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+121800
+Timestamp: 1655354190.705977        ID: 01ed    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+121900
+Timestamp: 1655354190.706496        ID: 0209    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+122000
+Timestamp: 1655354190.706891        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+122100
+Timestamp: 1655354190.719123        ID: 01d9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+122200
+Timestamp: 1655354190.719600        ID: 014d    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+122300
+Timestamp: 1655354190.720088        ID: 01b3    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+122400
+Timestamp: 1655354190.720572        ID: 01f3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+122500
+Timestamp: 1655354190.721055        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+122600
+Timestamp: 1655354190.721509        ID: 01ca    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+122700
+Timestamp: 1655354190.735683        ID: 01d4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+122800
+Timestamp: 1655354190.736212        ID: 015b    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+122900
+Timestamp: 1655354190.736678        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+123000
+Timestamp: 1655354190.737149        ID: 01ea    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+123100
+Timestamp: 1655354190.737643        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+123200
+Timestamp: 1655354190.738116        ID: 01bf    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+123300
+Timestamp: 1655354190.752089        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+123400
+Timestamp: 1655354190.752694        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+123500
+Timestamp: 1655354190.753030        ID: 01b7    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+123600
+Timestamp: 1655354190.753511        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+123700
+Timestamp: 1655354190.754002        ID: 0201    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+123800
+Timestamp: 1655354190.754469        ID: 01be    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+123900
+Timestamp: 1655354190.768826        ID: 01e3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+124000
+Timestamp: 1655354190.769302        ID: 015c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+124100
+Timestamp: 1655354190.769810        ID: 01ac    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+124200
+Timestamp: 1655354190.770298        ID: 01e9    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+124300
+Timestamp: 1655354190.770777        ID: 01fc    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+124400
+Timestamp: 1655354190.771245        ID: 01c6    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+124500
+Timestamp: 1655354190.785445        ID: 01d2    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+124600
+Timestamp: 1655354190.785918        ID: 0155    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+124700
+Timestamp: 1655354190.786406        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+124800
+Timestamp: 1655354190.786884        ID: 01f6    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+124900
+Timestamp: 1655354190.787373        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+125000
+Timestamp: 1655354190.787837        ID: 01c5    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+125100
+Timestamp: 1655354190.802550        ID: 01d3    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+125200
+Timestamp: 1655354190.803540        ID: 015a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+125300
+Timestamp: 1655354190.804089        ID: 01b1    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+125400
+Timestamp: 1655354190.804540        ID: 01f8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+125500
+Timestamp: 1655354190.805040        ID: 01fe    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+125600
+Timestamp: 1655354190.805506        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+125700
+Timestamp: 1655354190.819072        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+125800
+Timestamp: 1655354190.819552        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+125900
+Timestamp: 1655354190.820023        ID: 01b5    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+126000
+Timestamp: 1655354190.820517        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+126100
+Timestamp: 1655354190.820989        ID: 0200    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+126200
+Timestamp: 1655354190.821465        ID: 01c7    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+126300
+Timestamp: 1655354190.835808        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+126400
+Timestamp: 1655354190.836500        ID: 0153    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+126500
+Timestamp: 1655354190.836969        ID: 01ab    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+126600
+Timestamp: 1655354190.837447        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+126700
+Timestamp: 1655354190.838923        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+126800
+Timestamp: 1655354190.839443        ID: 01c3    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+126900
+Timestamp: 1655354190.852216        ID: 01d8    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+127000
+Timestamp: 1655354190.852710        ID: 014c    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+127100
+Timestamp: 1655354190.853201        ID: 01a8    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+127200
+Timestamp: 1655354190.853684        ID: 01f1    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+127300
+Timestamp: 1655354190.854177        ID: 0208    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+127400
+Timestamp: 1655354190.854636        ID: 01c9    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+127500
+Timestamp: 1655354190.869108        ID: 01d7    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+127600
+Timestamp: 1655354190.869574        ID: 0156    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+127700
+Timestamp: 1655354190.870035        ID: 01ae    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+127800
+Timestamp: 1655354190.870523        ID: 01f4    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+127900
+Timestamp: 1655354190.871013        ID: 01fd    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+128000
+Timestamp: 1655354190.871485        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+128100
+Timestamp: 1655354190.886271        ID: 01df    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+128200
+Timestamp: 1655354190.886826        ID: 0157    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+128300
+Timestamp: 1655354190.887280        ID: 01b4    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+128400
+Timestamp: 1655354190.888356        ID: 01eb    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+128500
+Timestamp: 1655354190.888900        ID: 0204    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+128600
+Timestamp: 1655354190.889370        ID: 01cb    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
+128700
+Timestamp: 1655354190.903339        ID: 01db    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+128800
+Timestamp: 1655354190.903923        ID: 0154    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+128900
+Timestamp: 1655354190.904657        ID: 01ac    S Rx                DL:  8    2a f7 cd 04 86 dc 4e 55     Channel: can0 T
+129000
+Timestamp: 1655354190.905153        ID: 01ee    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+129100
+Timestamp: 1655354190.905659        ID: 020a    S Rx                DL:  8    89 7f d3 0b ec f0 18 50     Channel: can0 T
+129200
+Timestamp: 1655354190.906118        ID: 01c2    S Rx                DL:  8    f3 48 c2 f3 c8 c8 e5 cc     Channel: can0 T
